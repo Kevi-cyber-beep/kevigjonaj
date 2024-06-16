@@ -181,7 +181,7 @@ def main():
     clear_screen()
     display_summary(payment, expenses)
 
-    print("\nPress Enter to see a dancing raccoon with the final result!")
+    print("\nPress Enter to see a dancing raccoon performing a dance that you never seen before!")
     input()
     dance_raccoon()
 
